@@ -1,4 +1,4 @@
-# Fluorimeter
+# OpenFluorimeter
 ### Note sur version 1.6b: ETAT: fonctionnel, a tester avant prod
 Ajout du fluorimetre sur un module d'extension I2C vers UART
 (FLUORIMETRE =[RS232]=> MAX232 =[UART]=> DFR0627 =[I2C]=> ESP32) \
